@@ -1,0 +1,26 @@
+*{
+    background: mediumseagreen;
+    text-decoration:none ;
+    color: white;
+}
+#title{
+    text-align: center;
+    color: darksalmon;
+    font-size: 30px;
+}
+#image1{
+    width:500px ;
+    height:400px;
+}
+#image2{
+    width:500px ;
+    height:400px;
+}
+#image3{
+    width:500px ;
+    height:400px;
+}
+#image4{
+    width:500px ;
+    height:400px;
+}
